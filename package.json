@@ -1,0 +1,16 @@
+{
+  "name": "responsive-login-form",
+  "version": "1.0.0",
+  "description": "A Responsive Login Form",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/responsive-login-form",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
